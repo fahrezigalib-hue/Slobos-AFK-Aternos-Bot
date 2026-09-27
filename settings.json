@@ -8,7 +8,7 @@
   "server": {
     "ip": "delta_130-ehra.aternos.me",
     "port": 24094,
-    "version": "26.2 (129)",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
