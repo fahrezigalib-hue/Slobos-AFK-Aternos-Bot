@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "delta_130-ehra.aternos.me",
+    "port": 24094,
     "version": "",
     "try-creative": false
   },
